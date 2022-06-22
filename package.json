@@ -1,0 +1,23 @@
+{
+  "name": "hasura-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhil-naidu/hasura-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhil-naidu/hasura-repro/issues"
+  },
+  "homepage": "https://github.com/akhil-naidu/hasura-repro#readme",
+  "dependencies": {
+    "hasura-cli": "^2.7.0"
+  }
+}
